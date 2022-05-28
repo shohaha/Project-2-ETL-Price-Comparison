@@ -14,4 +14,6 @@ The datasets were imported and then transformed into the dataframes. The datafra
 
 The next process was the upload of the dataframes into a database. The most suitable database is a relational databse, therefore it was put into postgresql. The two tables of very and currys, are then joined to created a price comparison table where the column that they are joined on is the Product Name column.
 
+## ANALYSIS
 
+There was quite a significant price difference between Currys and Very, Currys on average has 12% cheaper price. Showing that the larger and more established stores are able to offer lower prices. The ratings for both businesses were very similar with Currys having a 1% higher ratings, which is inignificant in reality as it so small and very similar. It was also filtered so that reviews were more than 50 to show a better overview of the reviews, the ratings difference did decrease but also Currys did end up haveing worse reviews.
