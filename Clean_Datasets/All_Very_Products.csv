@@ -1,4 +1,4 @@
-Product Name,Category,Price (£),Customer Rating,Rating Count
+Product_Name,Category,Price_(£),Customer_Rating,Rating_Count
 "HISENSE 55A7GQTUK 55"" Smart 4K Ultra HD HDR QLED TV with Alexa & Google Assistant",TV,449.0,4.6,115.0
 "LG OLED83C14LA 83"" Smart 4K Ultra HD HDR OLED TV with Google Assistant & Amazon Alexa",TV,3999.0,4.8,284.0
 "LG OLED65C14LB 65"" Smart 4K Ultra HD HDR OLED TV with Google Assistant & Amazon Alexa",TV,1399.0,4.8,445.0
@@ -259,3 +259,18 @@ SAMSUNG Series 5 ecobubble WW80TA046AE/EU 8 kg 1400 Spin Washing Machine - White
 SAMSUNG Series 5+ Auto Dose WW80T534DAN/S1 WiFi-enabled 8 kg 1400 Spin Washing Machine - Graphite,Washing Machine,569.0,4.5,83.0
 HISENSE WFGE10141VM 10 kg 1400 rpm Washing Machine - White,Washing Machine,469.0,5.0,1.0
 SAMSUNG Series 4 WW70T4040EE/EU 7 kg 1400 Spin Washing Machine - White,Washing Machine,379.0,1.0,1.0
+HOTPOINT BIWMHG91484 Integrated 9 kg 1400 Spin Washing Machine,Washing Machine,519.0,5.0,1.0
+HOTPOINT BIWMHG81484 Integrated 8 kg 1400 Spin Washing Machine,Washing Machine,489.0,5.0,1.0
+HISENSE WFGE90141VM 9 kg 1400 Spin Washing Machine - White,Washing Machine,398.01,4.8,9.0
+SAMSUNG Series 5+ AddWash WW80T554DAW/S1 WiFi-enabled 8 kg 1400 Spin Washing Machine - White,Washing Machine,409.0,4.5,146.0
+INDESIT BIWMIL91484 Integrated 9 kg 1400 Spin Washing Machine,Washing Machine,469.0,4.3,3.0
+INDESIT BIWMIL81284 Integrated 8 kg 1200 Spin Washing Machine,Washing Machine,399.0,,
+SAMSUNG Series 5+ DV90T5240AN/S1 WiFi-enabled 9 kg Heat Pump Tumble Dryer - Graphite,Tumble Dryers,779.0,4.6,48.0
+INDESIT I1 D80W UK 8 kg Vented Tumble Dryer - White,Tumble Dryers,249.0,4.0,31.0
+BEKO DTLCE70051W 7 kg Condenser Tumble Dryer - White,Tumble Dryers,249.0,4.6,61.0
+SAMSUNG Series 5 DV80TA020AE/EU 8 kg Heat Pump Tumble Dryer - White,Tumble Dryers,689.0,5.0,12.0
+SAMSUNG Series 5 DV90TA040AX/EU 9 kg Heat Pump Tumble Dryer - Graphite,Tumble Dryers,699.0,3.7,9.0
+SAMSUNG Series 5 DV80TA020AX/EU 8 kg Heat Pump Tumble Dryer - Graphite,Tumble Dryers,719.0,5.0,8.0
+HOTPOINT H2 D81W UK 8 kg Condenser Tumble Dryer - White,Tumble Dryers,289.0,4.8,8.0
+SAMSUNG Series 5 DV90TA040AE/EU 9 kg Heat Pump Tumble Dryer - White,Tumble Dryers,649.0,4.2,12.0
+HOTPOINT H3 D81WB UK 8 kg Condenser Tumble Dryer - White,Tumble Dryers,359.0,4.4,5.0
