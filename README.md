@@ -1,14 +1,14 @@
 # ELECTRONIC PRODUCT PRICE COMPARISON
 
-EXTRACT
+## EXTRACT
 
 The data was extracted from the currys(currys.co.uk) and very(very.co.uk) website, using webscraping. The specific data extracted were the names, price, rating and rating count for the electronic products. The two sets of data were then created into two dataframes and then saved as a csv. 
 
-TRANSFROM
+## TRANSFROM
 
 The datasets were imported and then transformed into the dataframes. The dataframes were cleaned with the removal of null values, this is because of the webscaping process being unable to find some products. This was due to very.co.uk not selling these products or the webscraping was unable to find the products. The data types of the columns were adjusted if they were found to be the incorrect type. The column names needed to be changed to a more suitable name.
 
-LOAD
+## LOAD
 
 The next process was the upload of the dataframes into a database. The most suitable database is a relational databse, therefore it was put into postgresql. The two tables of very and currys, are then joined to created a price comparison table where the column that they are joined on is the Product Name column.
 
