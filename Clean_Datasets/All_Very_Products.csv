@@ -1,4 +1,4 @@
-Product_Name,Category,Price_(£),Customer_Rating,Rating_Count
+product_name,category,price,customer_rating,rating_count
 "HISENSE 55A7GQTUK 55"" Smart 4K Ultra HD HDR QLED TV with Alexa & Google Assistant",TV,449.0,4.6,115.0
 "LG OLED83C14LA 83"" Smart 4K Ultra HD HDR OLED TV with Google Assistant & Amazon Alexa",TV,3999.0,4.8,284.0
 "LG OLED65C14LB 65"" Smart 4K Ultra HD HDR OLED TV with Google Assistant & Amazon Alexa",TV,1399.0,4.8,445.0

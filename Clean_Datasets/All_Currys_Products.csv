@@ -1,4 +1,4 @@
-Product_Name,Category,Price_(£),Customer_Rating,Rating_Count
+product_name,category,price,customer_rating,rating_count
 "SAMSUNG QE50QN94AATXXU 50"" Smart 4K Ultra HD HDR Neo QLED TV with Bixby, Alexa & Google Assistant",TV,799.0,4.45,172.0
 "SAMSUNG QE65QN95AATXXU 65"" Smart 4K Ultra HD HDR Neo QLED TV with Bixby, Alexa & Google Assistant",TV,1499.0,4.45,142.0
 "LG OLED42C24LA 42"" Smart 4K Ultra HD HDR OLED TV with Google Assistant & Amazon Alexa",TV,1299.0,,0.0
