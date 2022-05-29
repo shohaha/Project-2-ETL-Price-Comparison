@@ -1,4 +1,4 @@
-,Product_Name,Category,Curry_Price,Curry_Rating,Curry_Rating_Count,Very_Price,Very_Rating,Very_Rating_Count,Price_Difference,Rating_Difference
+,product_name,Category,Curry_Price,Curry_Rating,Curry_Rating_Count,Very_Price,Very_Rating,Very_Rating_Count,Price_Difference,Rating_Difference
 1,"LG OLED65C14LB 65"" Smart 4K Ultra HD HDR OLED TV with Google Assistant & Amazon Alexa",TV,1349.0,4.7,159.0,1399.0,4.8,445.0,-3.7064492216456637,-1.9999999999999927
 2,"LG OLED55A16LA 55"" Smart 4K Ultra HD HDR OLED TV with Google Assistant & Amazon Alexa",TV,719.0,4.55,250.0,719.0,4.8,197.0,0.0,-5.0
 3,"HISENSE 50A6GTUK 50"" Smart 4K Ultra HD HDR LED TV with Alexa & Google Assistant",TV,279.0,4.5,170.0,279.0,4.5,77.0,0.0,0.0
