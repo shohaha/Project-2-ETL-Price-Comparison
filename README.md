@@ -20,15 +20,16 @@ There was quite a significant price difference between Currys and Very, Currys o
 
 ## How to Run this Project
 
+````
+#Check current python packages using terminal 
+pip list 
+````
+
 ### Web Scrap
 
 ```python
-#Check current python packages using terminal 
-pip list 
-
 from splinter import Browser
 from bs4 import BeautifulSoup
-
 ```
 
 ### Dataframes and Load
@@ -38,5 +39,4 @@ import pandas as pd
 import numpy as np
 from sqlalchemy import create_engine
 import psycopg2
-
 ```
